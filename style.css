@@ -10,3 +10,20 @@
   font-family:"times new roman";
   color:violet;
 }
+
+table, th, td {
+  border:1px solid black;
+}
+.table {
+  border-collapse:collapse;
+  width:100%;
+  font-family:cursive;
+}
+.list {
+  font-family:courier;
+  color:blueviolet;
+}
+.text {
+  color:orange;
+  font-family:georgia;
+}
